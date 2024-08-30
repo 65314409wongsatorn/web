@@ -1,0 +1,709 @@
+{
+    "allFood": [
+        {
+            "id": "1",
+            "name": "Die Helling Sinfonie",
+            "category": "MainDish",
+            "image": "../image/menu/main1.png",
+            "price": "200",
+            "rate": "4.5"
+        },
+        {
+            "id": "2",
+            "name": "Deep-Fried Double risp",
+            "category": "MainDish",
+            "image": " ../image/menu/main2.png",
+            "price": "300",
+            "rate": "4"
+        },
+        {
+            "id": "3",
+            "name": "Once Upon a Time in Mondstadt",
+            "category": "MainDish",
+            "image": "../image/menu/main3.png",
+            "price": "150",
+            "rate": "5"
+        },
+        {
+            "id": "4",
+            "name": "A Fragant Feast of Flovors",
+            "category": "MainDish",
+            "image": "../image/menu/main4.png",
+            "price": "1890",
+            "rate": "5"
+        },
+        {
+            "id": "5",
+            "name": "Stuffed N'Mashed Potato",
+            "category": "MainDish",
+            "image": "../image/menu/main5.png",
+            "price": "230",
+            "rate": "4.5"
+        },
+        {
+            "id": "6",
+            "name": "The Endeavor",
+            "category": "MainDish",
+            "image": "../image/menu/main6.png",
+            "price": "1690",
+            "rate": "5"
+        },
+        {
+            "id": "7",
+            "name": "Omelette",
+            "category": "MainDish",
+            "image": "../image/menu/main7.png",
+            "price": "70",
+            "rate": "4"
+        },
+        {
+            "id": "8",
+            "name": "Slow-Cooked Bamboo Shoot",
+            "category": "MainDish",
+            "image": "../image/menu/main8.png",
+            "price": "888",
+            "rate": "5"
+        },
+        {
+            "id": "9",
+            "name": "Tagged and Bagged",
+            "category": "MainDish",
+            "image": "../image/menu/main9.png",
+            "price": "650",
+            "rate": "5"
+        },
+        {
+            "id": "10",
+            "name": "Lambad Fish Roll",
+            "category": "MainDish",
+            "image": "../image/menu/main10.png",
+            "price": "550",
+            "rate": "4"
+        },
+        {
+            "id": "11",
+            "name": "Dew-Dipped Shrimp",
+            "category": "MainDish",
+            "image": "../image/menu/main11.png",
+            "price": "1888",
+            "rate": "4"
+        },
+        {
+            "id": "12",
+            "name": "Chili-Mince Cornbaread Bun",
+            "category": "MainDish",
+            "image": "../image/menu/main12.png",
+            "price": "250",
+            "rate": "3.5"
+        },
+        {
+            "id": "13",
+            "name": "Sour Sauce Kipper",
+            "category": "MainDish",
+            "image": "../image/menu/main13.png",
+            "price": "300",
+            "rate": "4.5"
+        },
+        {
+            "id": "14",
+            "name": "The one and only truth",
+            "category": "MainDish",
+            "image": "../image/menu/main14.png",
+            "price": "350",
+            "rate": "3.5"
+        },
+        {
+            "id": "15",
+            "name": "Energizing Bento",
+            "category": "MainDish",
+            "image": "../image/menu/main15.png",
+            "price": "200",
+            "rate": "4"
+        },
+        {
+            "id": "16",
+            "name": "A Buoyant Breeze",
+            "category": "MainDish",
+            "image": "../image/menu/main16.png",
+            "price": "400",
+            "rate": "5"
+        },
+        {
+            "id": "17",
+            "name": "Secret Sauce BBQ Ribs",
+            "category": "MainDish",
+            "image": "../image/menu/main17.png",
+            "price": "950",
+            "rate": "4.5"
+        },
+        {
+            "id": "18",
+            "name": "Der Weisheit Letzter Schluss",
+            "category": "MainDish",
+            "image": "../image/menu/main19.png",
+            "price": "450",
+            "rate": "4.5"
+        },
+        {
+            "id": "19",
+            "name": "Feast-O's",
+            "category": "Appetisers",
+            "image": "../image/menu/appetiser1.png",
+            "price": "100",
+            "rate": "5"
+        },
+        {
+            "id": "20",
+            "name": "Puppy-paw Hash Brown",
+            "category": "Appetisers",
+            "image": "../image/menu/appetiser2.png",
+            "price": "60",
+            "rate": "4.5"
+        },
+        {
+            "id": "21",
+            "name": "Taco",
+            "category": "Appetisers",
+            "image": "../image/menu/appetiser3.png",
+            "price": "40",
+            "rate": "4"
+        },
+        {
+            "id": "22",
+            "name": "Fish and Chips",
+            "category": "Appetisers",
+            "image": "../image/menu/appetiser4.png",
+            "price": "150",
+            "rate": "4.5"
+        },
+        {
+            "id": "23",
+            "name": "A Stunning Stratagem",
+            "category": "Appetisers",
+            "image": "../image/menu/appetiser5.png",
+            "price": "100",
+            "rate": "5"
+        },
+        {
+            "id": "24",
+            "name": "Onigiri",
+            "category": "Appetisers",
+            "image": "../image/menu/appetiser6.png",
+            "price": "55",
+            "rate": "5"
+        },
+        {
+            "id": "25",
+            "name": "Dizziness-Be-Gone no Jutsu",
+            "category": "Appetisers",
+            "image": "../image/menu/appetiser7.png",
+            "price": "80",
+            "rate": "4"
+        },
+        {
+            "id": "26",
+            "name": "Fontinalia Mousse",
+            "category": "Appetisers",
+            "image": "../image/menu/appetiser8.png",
+            "price": "90",
+            "rate": "4.5"
+        },
+        {
+            "id": "27",
+            "name": "Qingce Household Dish",
+            "category": "Appetisers",
+            "image": "../image/menu/appetiser9.png",
+            "price": "250",
+            "rate": "4.5"
+        },
+        {
+            "id": "28",
+            "name": "Quiet Elegance",
+            "category": "Appetisers",
+            "image": "../image/menu/appetiser10.png",
+            "price": "950",
+            "rate": "5"
+        },
+        {
+            "id": "29",
+            "name": "Taiyaki Fashion",
+            "category": "Appetisers",
+            "image": "../image/menu/appetiser11.png",
+            "price": "800",
+            "rate": "5"
+        },
+        {
+            "id": "30",
+            "name": "Yearning",
+            "category": "Appetisers",
+            "image": "../image/menu/appetiser12.png",
+            "price": "100",
+            "rate": "5"
+        },
+        {
+            "id": "31",
+            "name": "Pour la Justice",
+            "category": "Dessert",
+            "image": "../image/menu/dessert1.png",
+            "price": "1990",
+            "rate": "5"
+        },
+        {
+            "id": "32",
+            "name": "Pick What You Like!",
+            "category": "Dessert",
+            "image": "../image/menu/dessert2.png",
+            "price": "950",
+            "rate": "5"
+        },
+        {
+            "id": "33",
+            "name": "Blubber Profiterole",
+            "category": "Dessert",
+            "image": "../image/menu/dessert3.png",
+            "price": "105",
+            "rate": "4"
+        },
+        {
+            "id": "34",
+            "name": "Snow on the Hearth",
+            "category": "Dessert",
+            "image": "../image/menu/dessert4.png",
+            "price": "300",
+            "rate": "4.5"
+        },
+        {
+            "id": "35",
+            "name": "Well-Balanced Meal",
+            "category": "Dessert",
+            "image": "../image/menu/dessert5.png",
+            "price": "1500",
+            "rate": "5"
+        },
+        {
+            "id": "36",
+            "name": "Crisp Croissant Combo",
+            "category": "Dessert",
+            "image": "../image/menu/dessert6.png",
+            "price": "500",
+            "rate": "4"
+        },
+        {
+            "id": "37",
+            "name": "Ghostly March",
+            "category": "Dessert",
+            "image": "../image/menu/dessert7.png",
+            "price": "850",
+            "rate": "4"
+        },
+        {
+            "id": "38",
+            "name": "La Lettre a Focalors",
+            "category": "Dessert",
+            "image": "../image/menu/dessert8.png",
+            "price": "800",
+            "rate": "5"
+        },
+        {
+            "id": "39",
+            "name": "Hearthfire's Trail",
+            "category": "Dessert",
+            "image": "../image/menu/dessert9.png",
+            "price": "350",
+            "rate": "4"
+        },
+        {
+            "id": "40",
+            "name": "Lighter-than-air Pancake",
+            "category": "Dessert",
+            "image": "../image/menu/dessert10.png",
+            "price": "230",
+            "rate": "3.5"
+        },
+        {
+            "id": "41",
+            "name": "Summer Festival Fish",
+            "category": "Dessert",
+            "image": "../image/menu/dessert11.png",
+            "price": "160",
+            "rate": "4.5"
+        },
+        {
+            "id": "42",
+            "name": "Coconut Charcoal Cake",
+            "category": "Dessert",
+            "image": "../image/menu/dessert12.png",
+            "price": "150",
+            "rate": "3.5"
+        },
+        {
+            "id": "43",
+            "name": "Puff Pop",
+            "category": "Dessert",
+            "image": "../image/menu/dessert13.png",
+            "price": "10.50",
+            "rate": "3.5"
+        },
+        {
+            "id": "43",
+            "name": "Rainbow Macarons",
+            "category": "Dessert",
+            "image": "../image/menu/dessert14.png",
+            "price": "500",
+            "rate": "5"
+        },
+        {
+            "id": "44",
+            "name": "Saurus Cracker",
+            "category": "Dessert",
+            "image": "../image/menu/dessert15.png",
+            "price": "550",
+            "rate": "4.5"
+        },
+        {
+            "id": "45",
+            "name": "Cloud-Shrouded Jade",
+            "category": "Dessert",
+            "image": "../image/menu/dessert16.png",
+            "price": "350",
+            "rate": "4.5"
+        },
+        {
+            "id": "46",
+            "name": "A Leisurely Sip",
+            "category": "Dessert",
+            "image": "../image/menu/dessert17.png",
+            "price": "150",
+            "rate": "3.5"
+        },
+        {
+            "id": "47",
+            "name": "Swirling Steps",
+            "category": "Dessert",
+            "image": "../image/menu/dessert18.png",
+            "price": "650",
+            "rate": "4.5"
+        },
+        {
+            "id": "48",
+            "name": "Sparkling Berry Juice",
+            "category": "Drink",
+            "image": "../image/menu/drink2.png",
+            "price": "50",
+            "rate": "4.5"
+        },
+        {
+            "id": "49",
+            "name": "Fruity Duet",
+            "category": "Drink",
+            "image": "../image/menu/drink3.png",
+            "price": "80",
+            "rate": "4.5"
+        },
+        {
+            "id": "50",
+            "name": "Fruits of the Festival",
+            "category": "Drink",
+            "image": "../image/menu/drink1.png",
+            "price": "190",
+            "rate": "4.5"
+        },
+        {
+            "id": "51",
+            "name": "Fruity Smoothie",
+            "category": "Drink",
+            "image": "../image/menu/drink4.png",
+            "price": "80",
+            "rate": "5"
+        },
+        {
+            "id": "52",
+            "name": "Rainbow Aster",
+            "category": "Drink",
+            "image": "../image/menu/drink5.png",
+            "price": "70",
+            "rate": "5"
+        },
+        {
+            "id": "53",
+            "name": "Woolfhook Juice",
+            "category": "Drink",
+            "image": "../image/menu/drink6.png",
+            "price": "60",
+            "rate": "4.5"
+        },
+        {
+            "id": "54",
+            "name": "Sunset Berry Tea",
+            "category": "Drink",
+            "image": "../image/menu/drink7.png",
+            "price": "60",
+            "rate": "4.5"
+        },
+        {
+            "id": "55",
+            "name": "Chenyu Brew",
+            "category": "Drink",
+            "image": "../image/menu/drink8.png",
+            "price": "180",
+            "rate": "5"
+        },
+        {
+            "id": "56",
+            "name": "Minty Fruit Tea",
+            "category": "Drink",
+            "image": "../image/menu/drink9.png",
+            "price": "50",
+            "rate": "3.5"
+        },
+        {
+            "id": "57",
+            "name": "TBerry & Mint Burst",
+            "category": "Drink",
+            "image": "../image/menu/drink10.png",
+            "price": "70",
+            "rate": "3.5"
+        },
+        {
+            "id": "58",
+            "name": "Fukuuchi Udon",
+            "category": "Noodle",
+            "image": "../image/menu/noodle1.png",
+            "price": "550",
+            "rate": "5"
+        },
+        {
+            "id": "59",
+            "name": "Victorious Legend",
+            "category": "Noodle",
+            "image": "../image/menu/noodle2.png",
+            "price": "450",
+            "rate": "5"
+        },
+        {
+            "id": "58",
+            "name": "Dragon Beard Noodles",
+            "category": "Noodle",
+            "image": "../image/menu/noodle3.png",
+            "price": "150",
+            "rate": "4.5"
+        },
+        {
+            "id": "59",
+            "name": "Tonkotsu Ramen",
+            "category": "Noodle",
+            "image": "../image/menu/noodle4.png",
+            "price": "150",
+            "rate": "4.5"
+        },
+        {
+            "id": "60",
+            "name": "Invigorating Pizza",
+            "category": "Pizza",
+            "image": "../image/menu/pizza1.png",
+            "price": "650",
+            "rate": "4.5"
+        },
+        {
+            "id": "61",
+            "name": "Special Mushroom Pizza",
+            "category": "Pizza",
+            "image": "../image/menu/pizza2.png",
+            "price": "550",
+            "rate": "3.5"
+        },
+        {
+            "id": "62",
+            "name": "Ideal Circumstance",
+            "category": "Pizza",
+            "image": "../image/menu/pizza3.png",
+            "price": "1500",
+            "rate": "5"
+        },
+        {
+            "id": "63",
+            "name": "Super Magnificent Pizzak",
+            "category": "Pizza",
+            "image": "../image/menu/pizza4.png",
+            "price": "650",
+            "rate": "4.5"
+        },
+        {
+            "id": "64",
+            "name": "Consomme Purete",
+            "category": "Soup",
+            "image": "../image/menu/soup1.png",
+            "price": "9999",
+            "rate": "5"
+        },
+        {
+            "id": "65",
+            "name": "Heat-Quelling Soup",
+            "category": "Soup",
+            "image": "../image/menu/soup2.png",
+            "price": "1950",
+            "rate": "5"
+        },
+        {
+            "id": "66",
+            "name": "Warmth",
+            "category": "Soup",
+            "image": "../image/menu/soup3.png",
+            "price": "500",
+            "rate": "5"
+        },
+        {
+            "id": "67",
+            "name": "Adeptus' Temptation",
+            "category": "Soup",
+            "image": "../image/menu/soup4.png",
+            "price": "1900",
+            "rate": "5"
+        },
+        {
+            "id": "68",
+            "name": "Tuna Sushi",
+            "category": "Sushi",
+            "image": "../image/menu/sushi1.png",
+            "price": "250",
+            "rate": "3.5"
+        },
+        {
+            "id": "68",
+            "name": "Bird Egg Sushi",
+            "category": "Sushi",
+            "image": "../image/menu/sushi2.png",
+            "price": "150",
+            "rate": "4.5"
+        },
+        {
+            "id": "69",
+            "name": "Mega-Meaty Sushi",
+            "category": "Sushi",
+            "image": "../image/menu/sushi3.png",
+            "price": "1050",
+            "rate": "4.5"
+        },
+        {
+            "id": "70",
+            "name": "Sweet Shrimp Sushi",
+            "category": "Sushi",
+            "image": "../image/menu/sushi4.png",
+            "price": "150",
+            "rate": "5"
+        },
+        {
+            "id": "71",
+            "name": "Blubbercream",
+            "category": "Dessert",
+            "image": "../image/menu/dessert19.png",
+            "price": "150",
+            "rate": "4.5"
+        },
+        {
+            "id": "72",
+            "name": "Cubic Tricks",
+            "category": "Dessert",
+            "image": "../image/menu/dessert20.png",
+            "price": "550",
+            "rate": "5"
+        },
+        {
+            "id": "73",
+            "name": "Halvamazd",
+            "category": "Dessert",
+            "image": "../image/menu/dessert21.png",
+            "price": "1500",
+            "rate": "5"
+        },
+        {
+            "id": "74",
+            "name": "Vessie Chicken",
+            "category": "MainDish",
+            "image": "../image/menu/main18.png",
+            "price": "1000",
+            "rate": "4.5"
+        },
+        {
+            "id": "75",
+            "name": "Grainfruit Meat Soup",
+            "category": "Noodle",
+            "image": "../image/menu/noodle5.png",
+            "price": "250",
+            "rate": "3.5"
+        },
+        {
+            "id": "76",
+            "name": "Jade Parcel",
+            "category": "Appetisers",
+            "image": "../image/menu/appetiser13.png",
+            "price": "150",
+            "rate": "5"
+        },
+        {
+            "id": "77",
+            "name": "All-Delicacy Parcels",
+            "category": "Appetisers",
+            "image": "../image/menu/appetiser14.png",
+            "price": "150",
+            "rate": "5"
+        },
+        {
+            "id": "78",
+            "name": "Sakura Tempura",
+            "category": "Appetisers",
+            "image": "../image/menu/appetiser15.png",
+            "price": "190",
+            "rate": "5"
+        },
+        {
+            "id": "79",
+            "name": "Sakura Shrimp Crackers",
+            "category": "Appetisers",
+            "image": "../image/menu/appetiser16.png",
+            "price": "160",
+            "rate": "5"
+        },
+        {
+            "id": "80",
+            "name": "Fullmoon Egg",
+            "category": "Appetisers",
+            "image": "../image/menu/appetiser17.png",
+            "price": "160",
+            "rate": "5"
+        },
+        {
+            "id": "81",
+            "name": "Goldflame Tajine",
+            "category": "MainDish",
+            "image": "../image/menu/main20.png",
+            "price": "400",
+            "rate": "4.5"
+        },
+        {
+            "id": "82",
+            "name": "Golden Chicken Burger",
+            "category": "MainDish",
+            "image": "../image/menu/main21.png",
+            "price": "200",
+            "rate": "5"
+        },
+        {
+            "id": "83",
+            "name": "Invigorating Kitty Meal",
+            "category": "MainDish",
+            "image": "../image/menu/main22.png",
+            "price": "250",
+            "rate": "5"
+        },
+        {
+            "id": "84",
+            "name": "Tricolor Dango",
+            "category": "Dessert",
+            "image": "../image/menu/dessert22.png",
+            "price": "150",
+            "rate": "5"
+        }            
+
+    ]
+}

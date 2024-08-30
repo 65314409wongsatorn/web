@@ -1,0 +1,88 @@
+{
+    "allChef": [
+        {
+            "id": "1",
+            "image": "../image/chef/chef1.png",
+            "firstname": "Zhongli",
+            "lastname": "",
+            "position": "Owner"
+        },
+        {
+            "id": "2",
+            "image": "../image/chef/chef2.png",
+            "firstname": "Xiangling",
+            "lastname": "",
+            "position": "Head Chef"
+        },
+        {
+            "id": "3",
+            "image": "../image/chef/chef3.png",
+            "firstname": "Noelle",
+            "lastname": "",
+            "position": "Sous Chef"
+        },
+        {
+            "id": "4",
+            "image": "../image/chef/chef7.png",
+            "firstname": "Candace",
+            "lastname": "",
+            "position": "Chef De Partie"
+        },
+        {
+            "id": "5",
+            "image": "../image/chef/chef5.png",
+            "firstname": "Albedo",
+            "lastname": "",
+            "position": "Chef De Partie"
+        },
+        {
+            "id": "6",
+            "image": "../image/chef/chef9.png",
+            "firstname": "Navia",
+            "lastname": "",
+            "position": "Chef De Partie"
+        },
+        {
+            "id": "7",
+            "image": "../image/chef/chef13.png",
+            "firstname": "Alhaitham",
+            "lastname": "",
+            "position": "Commis"
+        },
+        {
+            "id": "8",
+            "image": "../image/chef/chef12.png",
+            "firstname": "Kaveh",
+            "lastname": "",
+            "position": "Commis"
+        },
+        {
+            "id": "9",
+            "image": "../image/chef/chef11.png",
+            "firstname": "Thoma",
+            "lastname": "",
+            "position": "Sous Chef"
+        },
+        {
+            "id": "10",
+            "image": "../image/chef/chef4.png",
+            "firstname": "Diluc",
+            "lastname": "",
+            "position": "Bartender"
+        },
+        {
+            "id": "11",
+            "image": "../image/chef/chef10.png",
+            "firstname": "Heizou",
+            "lastname": "Shikanoin",
+            "position": "Commis"
+        },
+        {
+            "id": "12",
+            "image": "../image/chef/chef8.png",
+            "firstname": "Sigwine",
+            "lastname": "",
+            "position": "Demi Chef"
+        }
+    ]
+}

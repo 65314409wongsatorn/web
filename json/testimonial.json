@@ -1,0 +1,74 @@
+{
+   "testimonialData": [
+        {
+             "id":"1",
+             "image":"../image/testimonial/ch1.jpg",
+             "username":"Charlotte",
+             "comment":"ได้เวลากินอาหารเที่ยงทีไร ฉันจะพาทุกคนมากินที่นี่เลย ว่าแต่ที่ทำข่าวได้ใช่ไหม",
+             "MembershipLevel":"classic member"
+        },
+        {
+             "id":"2",
+             "image":"../image/testimonial/ch2.jpg",
+             "username":"Nilou",
+             "comment":"ของหวานทำให้ผู้คนมีความสุขได้เสมอ ชาว Sumeru ส่วนใหญ่น่ะ ชอบของหวานมากเลยล่ะ! เอ่อ เธออยากจะลองหน่อยมั้ย ฉันแนะนำให้ได้นะ",
+             "MembershipLevel":"vip member"
+        },
+        {
+             "id":"3",
+             "image":"../image/testimonial/ch3.jpg",
+             "username":"E-wan",
+             "comment":"มีชาขมกว่ามั้ย? ยิ่งขมก็ยิ่งดี รสชาติทิ้งทวนทำให้ไม่รู้จักเบื่อ",
+             "MembershipLevel":"classic member"
+        },
+        {
+             "id":"4",
+             "image":"../image/testimonial/ch4.jpg",
+             "username":"Chevreuse",
+             "comment":"อาหารที่อุดมไปด้วยไขมันและน้ำตาลช่วยให้ฉันมีพลังและอารมณ์ดีในระหว่างวันทำงาน",
+             "MembershipLevel":"vip member"
+        },
+        {
+             "id":"5",
+             "image":"../image/testimonial/ch5.jpg",
+             "username":"Kirara",
+             "comment":"ฉันชอบข้าวที่ยายจ๋าทำให้มากที่สุด กินได้ชามใหญ่ ๆ ในครั้งเดียวเลยนะ! แต่ตอนนี้... อืม ก็ต้องเป็น Sashimi Platter! ปลาสดเนื้อเด้งเสิร์ฟตรงหน้าฉัน แถมไม่ต้องขอดเกล็ดออกเองด้วย!",
+             "MembershipLevel":"classic member"
+        },
+        {
+             "id":"6",
+             "image":"../image/testimonial/ch6.jpg",
+             "username":"SarahWilson678",
+             "comment":"ไม่มีใครเกลียดของหวานที่แสนประณีตหรอก แต่ถ้าจะทำให้เราละก็ยังต้องพยายามอีกเยอะนะฟังให้ดีล่ะ ของหวานก็เหมือนกับละครต้องทุ่มเทเหมือนกัน",
+             "MembershipLevel":"vip member"
+        },
+        {
+             "id":"7",
+             "image":"../image/testimonial/ch7.jpg",
+             "username":"Raiden Shogun",
+             "comment":"อย่าไปฟังที่โชกุนพูดเลยนะ เรื่องขนมหวานน่ะ! ฟันผุก็เปลี่ยนแค่นั้นเอง ฉันไม่เห็นว่ามันจะส่งผลกับการแสวงหาความเป็นนิรันดร์ตรงไหน",
+             "MembershipLevel":"classic member"
+        },
+        {
+             "id":"8",
+             "image":"../image/testimonial/ch8.jpg",
+             "username":"Clorinde",
+             "comment":"อาหารที่ทำจากเนื้อสัตว์นี่ไม่เลวเลยนะ แต่เนื้อจะต้องสดใหม่ เนื้อที่เพิ่งล่ามาสด ๆ ปรุงรสด้วยเกลือแล้วนำไปย่าง เสิร์ฟพร้อมผลไม้รสเปรี้ยวเล็กน้อย เป็นเครื่องเคียง เป็นรสชาติที่ยอดเยี่ยมไปเลยล่ะ ",
+             "MembershipLevel":"vip member"
+        },
+        {
+             "id":"9",
+             "image":"../image/testimonial/ch9.jpg",
+             "username":"Klee",
+             "comment":"ปลาของ Mondstadt อร่อยมาก ยิ่งปลาที่จับมาจาก Cider Lake ยิ่งอร่อยเลย! นี่ไม่ได้พูดมั่ว ๆ นะ แม้แต่แม่ก็ยอมรับในความคิดนี้ของ Klee เลย",
+             "MembershipLevel":"classic member"
+        },
+        {
+             "id":"10",
+             "image":"../image/testimonial/ch10.jpg",
+             "username":"Sangonomiya Kokomi",
+             "comment":"Bird Egg Sushi เป็นอาหารที่ฉันชอบมากเมนูหนึ่ง สามารถหาวัตถุดิบได้ทั่วไป วิธีทำก็ง่าย เหมาะที่จะทานในกองทัพที่สุดเลย ถึงแม้การกินในช่วงที่การต่อสู้กำลังดุเดือดอาจจะดูเป็นเรื่องฟุ่มเฟือยก็ตามอาหารที่ดูเรียบง่ายนี้ ช่วยทำให้เหล่าทหารพอใจได้มากเลยล่ะ",
+             "MembershipLevel":"vip member"
+        }
+    ]
+}
